@@ -1,0 +1,23 @@
+{
+  "name": "dogapi.js",
+  "version": "1.0.0",
+  "description": "Dog API client for JavaScript",
+  "main": "src/dogapi.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thechampagne/dogapi-js.git"
+  },
+  "keywords": [
+    "api",
+    "dogapi"
+  ],
+  "author": "XXIV",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/thechampagne/dogapi-js/issues"
+  },
+  "homepage": "https://github.com/thechampagne/dogapi-js#readme"
+}
